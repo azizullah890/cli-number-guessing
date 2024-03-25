@@ -24,5 +24,5 @@ console.log("Congrasulation! you guessed right number.")
     console.log("you guessed wrong number");
 }
 
-console.log(comlete your project)
+
 
